@@ -73,3 +73,43 @@ Uma rede industrial bem planejada contribui para:
 ---
 
 ## Diagrama de Integração de Sistemas
+
+```mermaid
+graph TD
+    A[Dispositivos de Campo] --> B[Controle Centralizado]
+    B --> C[Monitoramento em Tempo Real]
+    B --> D[Automação de Processos]
+    B --> E[Integração de Sistemas]
+    C --> F[Análise de Dados]
+    D --> G[Redução de Custos Operacionais]
+    E --> H[Comunicação entre Dispositivos Heterogêneos]
+    E --> I[Coleta e Análise de Dados]
+    I --> F
+    H --> J[Interoperabilidade]
+    J --> K[Protocolos: Modbus, Profibus, Ethernet/IP, OPC UA]
+    K --> L[Segmentação de Redes]
+    K --> M[Segurança Cibernética]
+    M --> N[Monitoramento Contínuo]
+    M --> O[Atualizações Regulares]
+    O --> P[Falta de Padrões Universais]
+    P --> K
+
+    style A fill:#ffffff,stroke:#000000,stroke-width:2px
+    style B fill:#ffffff,stroke:#000000,stroke-width:2px
+    style C fill:#ffffff,stroke:#000000,stroke-width:2px
+    style D fill:#ffffff,stroke:#000000,stroke-width:2px
+    style E fill:#ffffff,stroke:#000000,stroke-width:2px
+    style F fill:#ffffff,stroke:#000000,stroke-width:2px
+    style G fill:#ffffff,stroke:#000000,stroke-width:2px
+    style H fill:#ffffff,stroke:#000000,stroke-width:2px
+    style I fill:#ffffff,stroke:#000000,stroke-width:2px
+    style J fill:#ffffff,stroke:#000000,stroke-width:2px
+    style K fill:#ffffff,stroke:#000000,stroke-width:2px
+    style L fill:#ffffff,stroke:#000000,stroke-width:2px
+    style M fill:#ffffff,stroke:#000000,stroke-width:2px
+    style N fill:#ffffff,stroke:#000000,stroke-width:2px
+    style O fill:#ffffff,stroke:#000000,stroke-width:2px
+    style P fill:#ffffff,stroke:#000000,stroke-width:2px
+
+ 
+```
