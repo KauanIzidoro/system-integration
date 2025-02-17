@@ -1,9 +1,9 @@
 # Relatório sobre Redes Industriais
 
 
-> Kauan H. S. Izidoro
-> Gabriel Alvim 
-> Gustavo Sousa 
+> Kauan H. S. Izidoro  
+> Gabriel Alvim   
+> Gustavo Sousa   
 > Gustavo Monteiro
 
 
