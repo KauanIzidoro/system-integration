@@ -1,5 +1,12 @@
 # Relatório sobre Redes Industriais
 
+
+> Kauan H. S. Izidoro
+> Gabriel Alvim 
+> Gustavo Sousa 
+> Gustavo Monteiro
+
+
 ## Introdução
 As redes industriais são fundamentais para a automação e integração de sistemas em ambientes industriais. Elas permitem a comunicação entre dispositivos, máquinas e sistemas de controle, promovendo eficiência, produtividade e inovação. Este relatório aborda os benefícios, desafios e protocolos das redes industriais, além de discutir medidas de segurança, escolha de protocolos e impactos esperados.
 
